@@ -6,7 +6,7 @@ let dane = {
     imie: "Dawid",
     nazwisko: "Młodzianowski",
     klasa: "3I2",
-    grupa: "2"
+    grupa: "a"
 }
 
 app.get("/", function (req, res) {
